@@ -1,0 +1,46 @@
+.populationtable{
+     display: flex;
+     align-items: center;
+     justify-content: center;
+   
+    
+    
+}
+.tableChart{
+    z-index: 999;
+    top: 0px;
+   
+  
+  
+}
+.tableContainer{
+    border-radius: 10px;
+    
+}
+.populationMap{
+    color:#0072AA;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.tableMapImg{
+    padding: 20px;
+  
+    width:900px;
+    height: 500px;
+    border-radius: 10px;
+   
+   
+   -webkit-box-shadow: -5px 3px 26px 16px rgba(0,0,0,0.46);
+   -moz-box-shadow: -5px 3px 26px 16px rgba(0,0,0,0.46);
+   box-shadow: -5px 3px 26px 16px rgba(0,0,0,0.46);
+   z-index: 10;
+}
+
+.tableChart{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

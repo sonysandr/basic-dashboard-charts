@@ -1,0 +1,11 @@
+.sales{
+    flex: 4;
+    background-color:#78ADD2 ;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-left: 10px;
+    
+    height: calc(100vh - 70px);
+    position: sticky;
+    top: 60px;
+}
